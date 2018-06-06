@@ -1,0 +1,35 @@
+/*
+Theme Name: Switty
+Description: Adds support for languages written in a Right To Left (RTL) direction.
+It's easy, just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+with help of https://codex.wordpress.org/Right_to_Left_Language_Support and https://github.com/morteza/bootstrap-rtl and css/style.css
+
+See: https://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+
+html {
+  direction: rtl;
+}
+
+body {
+   direction: rtl;
+   unicode-bidi: embed;
+}
+
+.widget_sidebar_main ul li, .widgets_footer ul li {
+	position: relative;
+	left: 0px;
+}
+
+.cprtlft_ctmzr {
+	float: left;
+}
+
+.dropdown-menu {
+	text-align: right;
+}
+
+

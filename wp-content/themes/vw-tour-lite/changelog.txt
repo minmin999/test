@@ -1,0 +1,88 @@
+Version 1.0
+	-- Intial version Release
+	
+Version 1.0.1
+	-- Incorrect use of home.php
+	-- Multiple escaping issues
+	-- Removed Custom Headers support.
+	-- searchform.php - get_search_query() escaping removed. 
+	-- home.php - added wp_reset_postdata();
+	-- contact.php - you have untranslatable text strings 
+	-- Corected demo content.
+
+Version 1.0.2
+	-- Removed slider.
+	-- Corrected traslation.
+	-- Corrected Screenshot.
+
+Version 1.0.3
+	-- Corrected styling issues.
+	-- Fixed resources not found issue.
+
+Version 1.0.4
+	-- Change resources
+
+Version 1.0.5
+	-- Used antispambot for email
+
+Version 1.0.6
+	-- Screenshot changed.
+
+Version 1.0.7
+	-- changes in index.php to modify look.
+
+Version 1.0.8
+	-- styling changed
+	
+Version 1.0.9
+	-- styling and css changes
+
+Version 1.1
+	-- Added the static part with post.
+	-- Removed depreceated functions.
+	-- Done customization.
+
+Version 1.1.1
+	-- Done the theme translation ready.
+	-- added rtl.css tag in theme.
+
+Version 1.1.2
+	-- Added Woocommerce in theme.
+
+Version 1.1.3
+	-- Replaced @Since vw-tour-lte 1.0 to @since 1.0
+	-- Added the changelog in readme file.
+	-- Done some css customization in footer and sidebar.
+	-- Removed error from 404 file.
+
+Version 1.1.3.1
+	-- Added hooks in the theme.
+
+Version 1.1.3.2
+	-- Done style customization.
+	-- Tested on WordPress version 4.9.
+
+Version 1.1.3.3
+	-- Resolved template tag error.	
+	-- Removed esc_url from conditions.
+	-- Removed unwanted tags.
+	-- Tested on WordPress version 4.9.1.
+
+Version 1.1.3.4
+	-- Improve responsive layout.
+	-- Done css customization.
+	-- Added url instead of text in customizer.php.
+	-- Resolved some errors.
+	-- Updated fontawesome.
+
+Version 1.1.3.5
+	-- Updated Woocommerce.
+	-- Added typography.
+	-- Done styling.
+	-- Resolved minor theme issue. 
+
+Version 1.1.3.6
+    -- Update: Bootstrap version 4.0.0
+    -- Update: language folder pot file. version 0.2
+    -- Added:  Post format, custom header, featured image header tags.
+    -- Fixed:  Theme Minor issues.

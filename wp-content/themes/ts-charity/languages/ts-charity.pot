@@ -1,0 +1,311 @@
+# <!=Copyright (C) 2017 ThemeShopy
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: TS Charity 0.2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 15:32:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: ThemeShopy <support@themeshopy.com>\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../ts-charity\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: 404.php:14
+msgid '404'
+msgstr ""
+
+#: 404.php:15
+msgid 'Looks like you have taken a wrong turn &hellip; Don\'t worry &hellip; it happens to the best of us.'
+msgstr ""
+
+#: 404.php:18 
+msgid 'Back to Home Page'
+msgstr ""
+
+#: archive.php:40 index.php:39 search.php:35 
+#: image.php:38
+msgid 'Previous page'
+msgstr ""
+
+#: archive.php:41 index.php:40 search.php:36
+#: image.php:39 
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:42 index.php:41 search.php:37 
+msgid 'Page'
+msgstr ""
+
+#: comments.php:28 
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:66
+msgid 'Comments are closed.'
+msgstr ""
+
+#: template-parts/content.php:16
+#: page-template/custom-front-page.php:61
+msgid 'Read More'
+msgstr ""
+
+#: functions.php:31
+msgid 'Primary Menu'
+msgstr""
+
+#: functions.php:60
+msgid 'Blog Sidebar'
+msgstr""
+
+#: functions.php:61
+msgid 'Appears on blog page sidebar'
+msgstr""
+
+#: functions.php:70
+msgid 'Page Sidebar'
+msgstr""
+
+#: functions.php:71
+msgid 'Appears on page sidebar'
+msgstr""
+
+#: functions.php:80
+msgid 'Third Column Sidebar'
+msgstr""
+
+#: functions.php:81
+msgid 'Appears on page sidebar'
+msgstr""
+
+#: functions.php:90
+msgid 'Footer Navigation 1'
+msgstr""
+
+#: functions.php:91 functions.php:101 functions.php:111 functions.php:121
+msgid 'Appears on footer'
+msgstr""
+
+#: functions.php:100
+msgid 'Footer Navigation 2'
+msgstr""
+
+#: functions.php:110
+msgid 'Footer Navigation 3'
+msgstr""
+
+#: functions.php:120
+msgid 'Footer Navigation 4'
+msgstr""
+
+#: no-results.php:11
+msgid 'Nothing Found'
+msgstr""
+
+#: no-results.php:16
+msgid 'Ready to publish your first post? Get started here.'
+msgstr""
+
+#: no-results.php:18
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr""
+
+#: no-results.php:21
+msgid 'Don\'t worry &hellip; it happens to the best of us.'
+msgstr""
+
+#: no-results.php:23
+msgid 'Return to Home Page'
+msgstr""
+
+#: searchform.php:10
+msgid 'Search'
+msgstr""
+
+#: sidebar.php:12
+msgid 'Archives'
+msgstr""
+
+#: sidebar.php:18
+msgid 'Meta'
+msgstr""
+
+#: single.php:25
+#: page-template/custom-front-page.php:99
+msgid '0 Comments'
+msgstr""
+
+#: footer.php:30
+msgid 'ts_charity_footer_copy'
+msgstr""
+
+#: header.php:21
+msgid 'Menu'
+msgstr""
+
+#: header.php:47
+msgid 'ts_charity_call'
+msgstr""
+
+#: header.php:50
+msgid 'ts_charity_time'
+msgstr""
+
+#: header.php:53
+msgid 'ts_charity_email'
+msgstr""
+
+#: single.php:48
+#: template-part/image-layout.php:42
+msgid 'Parent post link'
+msgstr""
+
+#: single.php:53
+#: template-part/image-layout.php:47
+msgid 'Next'
+msgstr""
+
+#: single.php:54
+#: template-part/image-layout.php:48
+msgid 'Next post'
+msgstr""
+
+#: single.php:56
+#: template-part/image-layout.php:50
+msgid 'Previous'
+msgstr""
+
+
+#: single.php:57
+#: template-part/image-layout.php:51
+msgid 'Previous post'
+msgstr""
+
+#: inc/customizer.php:20
+msgid 'Theme Settings'
+msgstr""
+
+#: inc/customizer.php:21
+msgid 'Description of what this panel does.'
+msgstr""
+
+#: inc/customizer.php:25
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Change Layouts"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Top Bar Section"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Add Top Bar Content here"
+msgstr ""
+
+#: inc/customizer.php:67
+msgid "Add Youtube link"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Add Facebook link"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Add Twitter link"
+msgstr ""
+
+#: inc/customizer.php:103
+msgid "Add RSS link"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Add Instagram link"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Add Pintrest link"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Add Phone Number"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Add Time"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Add Email"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Select Slide Image Page"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Our Causes"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Title"
+msgstr ""
+
+#: inc/customizer.php:235
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Cookie"
+msgstr ""
+
+#: inc/customizer.php:330
+msgid "Charity Pro Theme"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Go Pro"
+msgstr ""
+

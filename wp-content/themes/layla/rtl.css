@@ -1,0 +1,20 @@
+.layla-header-menu{
+    float: right;
+}
+
+.layla-branding {
+    float: right;
+}
+
+.main-navigation li {
+    float: right;
+}
+
+.scroll-top{
+    left: 0;
+    right: initial;
+}
+
+#layla-page-jumbotron .entry-title.text-left {
+    text-align: right !important;
+}

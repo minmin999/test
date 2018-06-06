@@ -1,0 +1,75 @@
+
+.woocommerce ul.product_list_widget, .woocommerce.widget_rating_filter ul {
+  padding-left: 5px;
+}
+
+.single-product .product_meta > span {
+  clear: both;
+  display: block;
+  font-style: italic;
+  padding-top: 5px;
+}
+
+.single-product .product_meta span a {
+  letter-spacing: 0.5px;
+}
+
+.woocommerce ul.cart_list li img, .woocommerce ul.product_list_widget li img {
+  width: 63px;
+}
+
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+   padding: 10px;
+}
+
+.woocommerce #reviews #comments ol.commentlist li .comment-text {
+  padding: 1em 1em 14px 10px;
+}
+
+.widget_sidebar_main.woocommerce ul li
+{
+	position: relative;
+	left: 0px;
+}
+
+.coupon #coupon_code {
+  height: 31px;
+  width: 143px;
+}
+
+.related ul.products li  {
+  clear: none  !important;
+  margin: 0 2% 2.992em 0 !important;
+}
+
+table.variations .label {
+  color: #565656;
+  position: relative;
+  top: 10px;
+}
+
+.single_variation_wrap .quantity .input-text, .cart .quantity .input-text {
+  padding: 5px;
+  width: 64px;
+}
+
+.woocommerce-product-search #woocommerce-product-search-field {
+  padding: 6px 10px;
+}
+
+.woocommerce-product-search input[type="submit"] {
+  line-height: 1;
+  padding: 0.718em 1em;
+  font-weight: 700;
+  border-radius: 3px;
+  border: 0;
+}
+
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce-product-search input[type="submit"] {
+  -webkit-transition: background-color 0.5s ease-out;
+  -moz-transition: background-color 0.5s ease-out;
+  transition: background-color 0.5s ease-out;
+}
+
+
+

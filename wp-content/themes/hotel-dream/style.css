@@ -1,0 +1,60 @@
+/*
+Theme Name: Hotel Dream
+Description: Hotel Dream is a powerful business theme that provides a fast way for companies or freelancers to create an awesome online presence. The theme is mobile friendly (responsive), SEO friendly, easy to use and tested with Booking Calendar plugin. it can be use for display informations and online booking services such as hotel, room reservation, restaurant, apartment, house, eatery, food joint, cuisine, hospitality business, recipe, cafe, lodge, resorts, breakfasts, guest house, creative business, small businesses, wedding planners, sport, medical shops, startups, corporate businesses, online agencies and firms, portfolios, ecommerce (WooCommerce), freelancers and similar websites.
+Author: Alex Sander
+Version: 1.0.3
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: one-column, two-columns, left-sidebar, right-sidebar, grid-layout, custom-background, custom-colors, custom-header, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, flexible-header, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, portfolio, e-commerce, food-and-drink, entertainment
+Text Domain: hotel-dream
+Template: di-business
+*/
+
+.widget_sidebar_main .wpbc_structure_form {
+	padding: 0px 10px 0px 10px;
+}
+
+.wpbc_structure_form textarea, .wpbc_structure_form input[type="text"] {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+	-webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+	-o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+	transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.wpbc_structure_form textarea:focus, .wpbc_structure_form input[type="text"]:focus {
+	border-color: #a0ce4e;
+	outline: 0;
+	-webkit-box-shadow: inset 0 1px 1px rgb(160, 206, 78), 0 0 8px rgb(160, 206, 78);
+	box-shadow: inset 0 1px 1px rgb(160, 206, 78), 0 0 8px rgb(160, 206, 78);
+}
+
+.widget_sidebar_main .calendar_wrap {
+	padding: 0px 5px 0px 5px;
+}
+
+.datepick-inline .datepick-one-month .datepick .datepick-current-day {
+	background-color: #a0ce4e !important;
+}
+
+.block_hints .date2approve.block_check_in_out, .block_hints .block_pending, .datepick-inline .date2approve, td.timespartly.check_in_time.check_out_time.check_in_time_date_approved.check_out_time_date2approve div.check-in-div, td.timespartly.check_in_time.check_out_time.check_out_time_date_approved.check_in_time_date2approve div.check-out-div {
+	background-color: #ffffff !important;
+}
+
+.datepick-inline {
+	border: 1px solid #a0ce4e !important;
+	box-shadow: 0 0 2px #a0ce4e !important;
+	-moz-box-shadow: 0 0 2px #a0ce4e !important;
+	-webkit-box-shadow: 0 0 2px #a0ce4e !important;
+}
+
+.wpdevelop .alert-warning {
+	color: #ffffff !important;
+}
+
+.wpdev-help-message.alert.alert-warning, .wpdev-help-message .alert.alert-warning {
+	background-color: #a0ce4e !important;
+}
+

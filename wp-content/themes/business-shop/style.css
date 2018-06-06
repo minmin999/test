@@ -1,0 +1,133 @@
+/*
+Theme Name:     Business Shop
+Template:       store-corner
+Theme URI:      https://themescorners.com/tc_theme/business-shop/
+Author: Themescorners
+Author URI: https://themescorners.com
+Description: Business Shop theme is a child theme of Store Corner e-Commerce theme. This theme is give some more function for the user to show there products or site. In this theme has service section to show site services. Business Shop is an aesthetically pure and clean and highly customizable, professionally composed and very lightweight and fast loading. BS Theme is smoothly integrates WooCommerce, one of the best e-commerce plugin, to make professional and stunning stores. There is some changes in the design in some section. The theme is designed with strong focus on usability and overall excellent user experience. It exists so that you can speedily and efficiently craft powerful e-Commerce websites across all niches and markets in a matter of minutes, without having to write a line of code. We give some more features in this child theme. Check the demo :- https://themescorners.com/demo/business-shop/
+Version: 1.0.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: store-corner
+Tags: e-commerce, grid-layout, footer-widgets, blog, one-column, two-columns, full-width-template, threaded-comments, left-sidebar, flexible-header,  custom-colors,  custom-header, custom-menu, featured-images, theme-options, custom-logo, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Store Corner is based on Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+
+/* New Style */
+.bs-home-slider .sc-home-category{
+padding-left:0;
+}
+
+.sc-home-category{
+padding-left:0;
+}
+.sc-home-category ul{
+	padding:0;
+	list-style:none;
+	margin:0;
+	display:block;
+	background-color: #446084;
+	padding-left:3px;
+}
+.sc-home-category ul li {
+    display: block;
+    border-bottom: 1px solid #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    padding: 0;
+}
+.sc-home-category ul li ul {
+    display: block;
+    border-bottom: 0;
+	background-color:#fff;
+	padding-left:10px;
+}
+.sc-home-category ul li ul li a {
+    display:block;
+	padding-left:3px;
+	color:#333;
+}
+.sc-home-category ul li a{
+	display:block;
+	padding:2px;
+	padding-left:3px;
+	color:#fff;
+}
+
+.slider-heading {
+    font-size: 72px !important;
+}
+.slider-text {
+    text-align: center !important;
+    margin: 0 auto !important;
+    width: 70% !important;
+}
+.bs-home-slider .carousel-caption {
+    top: 15% !important;
+}
+
+.serv-content i{
+	font-size:54px;
+width:55px;
+text-align:center;
+	display:inline-block;
+	float:left;
+	margin-right:10px;
+}
+.sc-services {
+    background-color: #eee;
+}
+.ser-name {
+    margin: 0;
+    padding: 5px 0;
+	color: #fff;
+}
+.serv-content{
+	padding:10px;
+	margin:10px 0;
+}
+.sc-servc a p {
+    color: #fff;
+    padding-left: 65px;
+}
+.sc-servc a {
+    color: #fff !important;
+}
+.bs-categorys{
+    border-bottom: 1px solid #eee;
+}
+.home-cat .img-thumbnail {
+    padding: 0;
+    border: 0;
+    background-color: transparent;
+    position: relative;
+}
+.home-cat .img-thumbnail .overlay {
+    position: absolute;
+    top: 30%;
+    text-align: center;
+    right: 0;
+    left: 0;
+    bottom: 40%;
+    background-color: rgba(0,0,0,0.3);
+    opacity:0;
+}
+.home-cat .img-thumbnail:hover .overlay {
+    opacity:1;
+}
+.home-cat .img-thumbnail .overlay a {
+    color: #fff;
+    font-size: 48px;
+    top: 30px;
+    position: relative;
+}
+/* New Style */
